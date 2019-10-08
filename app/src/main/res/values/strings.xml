@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P2JJGT</string>
+    <string name="TituloEscuela">TECNOLOGICO DE ESTUDIOS SUPERIORES DEL ORIENTE DEL ESTADO DE MEXICO</string>
+    <string name="boton1"> pantalla 2</string>
+    <string name="ING">ingenieria es sistemas computacionales</string>
+    <string name="boton2">pantalla 3</string>
+    <string name="Operaciones">operaciones basicas</string>
+</resources>
